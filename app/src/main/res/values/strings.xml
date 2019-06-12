@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UmaAPI</string>
+
+    <string-array name="locais">
+        <item> INFNET </item>
+        <item> COPACABANA </item>
+        <item> MARACANÃ </item>
+    </string-array>
+</resources>
